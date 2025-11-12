@@ -5,7 +5,9 @@
 Text Generation 
 
 ### Test Cases 
-| Header 1 | Header 2 | Header 3 |
+| Parameter Value | Output Snippet | Brief Observation |
 |---|---|---|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+| temperature=0.8 | Row 1 Col 2 | Row 1 Col 3 |
+| A long time ago in a galaxy far, far away...
+
+Some thought he was going there because now he had finally found the right place... | Row 2 Col 2 | Row 2 Col 3 |
