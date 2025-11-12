@@ -9,4 +9,4 @@ Text Generation
 |---|---|---|
 | temperature=0.8 | A long time ago in a galaxy far, far away... Some thought he was going there because now he had finally found the right place... | Text is not repeating like the core implementation output |
 | max_new_tokens=150 | A long time ago in a galaxy far, far away... the Dropship's guardian angel was about to encounter a corrupted soul ... | Compared to the temperature output there are less new lines |
-| top_p=0.92 | me ago in a galaxy far, far away... a shambling mecha robot heart-leveled teacher from a hefty order in a lab (wannabe, sadist, robotics engineer, the kind of person who will change his course... | top-p has to be pretty high. It feels like anything below .9 is bound to lead to repeats in text generation |
+| top_p=0.92 | A long time ago in a galaxy far, far away... a shambling mecha robot heart-leveled teacher from a hefty order in a lab (wannabe, sadist, robotics engineer, the kind of person who will change his course... | top-p has to be pretty high. It feels like anything below .9 is bound to lead to repeats in text generation |
